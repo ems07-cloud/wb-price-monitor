@@ -1,0 +1,31 @@
+{
+ "products": [
+  {
+   "id": 381583713,
+   "name": "Шины зимние R16 215 65 98 T W02",
+   "brand": "ATTAR",
+   "reviewRating": 4.9,
+   "feedbacks": 806,
+   "totalQuantity": 45,
+   "sizes": [
+    {
+     "name": "",
+     "price": {
+      "basic": 754100,
+      "product": 544400,
+      "logistics": 24900,
+      "return": 0,
+      "cashback": 0,
+      "wallet": 0
+     },
+     "stocks": [
+      {
+       "wh": 5306350953,
+       "qty": 19
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
